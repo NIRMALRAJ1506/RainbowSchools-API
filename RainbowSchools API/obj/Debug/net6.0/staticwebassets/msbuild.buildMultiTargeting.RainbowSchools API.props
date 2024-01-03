@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\RainbowSchools API.props" />
+</Project>
